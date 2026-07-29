@@ -1,0 +1,9 @@
+import complemented_lattices_orthocomplemented_lattices_posets_theorem_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace complemented_lattices_orthocomplemented_lattices_posets_theorem_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end complemented_lattices_orthocomplemented_lattices_posets_theorem_canonical_lane_mathlib
+end HautevilleHouse
